@@ -14,17 +14,22 @@ if you would then add your bank to this list by opening a pull request.
 | Bank | Rating | Host  | Date | Details |
 | ---- | ------ | ----- | ---- | ------- |
 | Bank of Scotland | C | [banking.bankofscotland.de](https://banking.bankofscotland.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=banking.bankofscotland.de) |
-| Barclays | B | [bank.barclays.co.uk](https://bank.barclays.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bank.barclays.co.uk) |
 | BBBank | B | [finanzportal.fiducia.de](https://finanzportal.fiducia.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=finanzportal.fiducia.de) |
 | Deutsche Bank | B | [meine.deutsche-bank.de](https://meine.deutsche-bank.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=meine.deutsche-bank.de) |
 | DKB | **A-** | [banking.dkb.de](https://banking.dkb.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=banking.dkb.de) |
-| Halifax | B | [halifax-online.co.uk](https://halifax-online.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=halifax-online.co.uk) | 
-| HSBC | B | [hsbc.co.uk](https://hsbc.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=hsbc.co.uk) |
 | ING DiBa | **A+** | [banking.ing-diba.de](https://banking.ing-diba.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=banking.ing-diba.de) |
-| Lloyds Bank | B | [online.lloydsbank.co.uk](https://online.lloydsbank.co.uk) | 09/04/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.lloydsbank.co.uk) |
-| Nationwide | **A-** | [onlinebanking.nationwide.co.uk](https://onlinebanking.nationwide.co.uk) | 04/092014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=onlinebanking.nationwide.co.uk) |
-| Natwest | B | [nwolb.com](https://nwolb.com.com) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=nwolb.com) |
 | Postbank | **A-** | [banking.postbank.de](https://banking.postbank.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=banking.postbank.de) |
 | Sparkasse Karlsruhe | **A-** | [bankingportal.sparkasse-karlsruhe-ettlingen.de](https://bankingportal.sparkasse-karlsruhe-ettlingen.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bankingportal.sparkasse-karlsruhe-ettlingen.de) |
 | Sparkasse Köln-Bonn | **A-** | [bankingportal.sparkasse-koelnbonn.de](https://bankingportal.sparkasse-koelnbonn.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bankingportal.sparkasse-koelnbonn.de) |
+
+## United Kingdom
+
+| Bank | Rating | Host  | Date | Details |
+| ---- | ------ | ----- | ---- | ------- |
+| Barclays | B | [bank.barclays.co.uk](https://bank.barclays.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bank.barclays.co.uk) |
+| Halifax | B | [halifax-online.co.uk](https://halifax-online.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=halifax-online.co.uk) | 
+| HSBC | B | [hsbc.co.uk](https://hsbc.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=hsbc.co.uk) |
+| Lloyds Bank | B | [online.lloydsbank.co.uk](https://online.lloydsbank.co.uk) | 09/04/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.lloydsbank.co.uk) |
+| Nationwide | **A-** | [onlinebanking.nationwide.co.uk](https://onlinebanking.nationwide.co.uk) | 04/092014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=onlinebanking.nationwide.co.uk) |
+| Natwest | B | [nwolb.com](https://nwolb.com.com) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=nwolb.com) |
 | TSB | B | [online.tsb.co.uk](https://online.tsb.co.uk) | 04/092014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.tsb.co.uk) |
