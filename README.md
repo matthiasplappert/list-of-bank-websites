@@ -19,5 +19,5 @@ if you would then add your bank to this list by opening a pull request.
 | DKB | **A-** | [banking.dkb.de](https://banking.dkb.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=banking.dkb.de) |
 | ING DiBa | **A+** | [banking.ing-diba.de](https://banking.ing-diba.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=banking.ing-diba.de) |
 | Postbank | **A-** | [banking.postbank.de](https://banking.postbank.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=banking.postbank.de) |
-| Sparkasse Karlsruhe | **A-** | [bankingportal.sparkasse-karlsruhe-ettlingen.de](bankingportal.sparkasse-karlsruhe-ettlingen.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bankingportal.sparkasse-karlsruhe-ettlingen.de) |
-| Sparkasse Köln-Bonn | **A-** | [bankingportal.sparkasse-koelnbonn.de](bankingportal.sparkasse-koelnbonn.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bankingportal.sparkasse-koelnbonn.de) |
+| Sparkasse Karlsruhe | **A-** | [bankingportal.sparkasse-karlsruhe-ettlingen.de](https://bankingportal.sparkasse-karlsruhe-ettlingen.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bankingportal.sparkasse-karlsruhe-ettlingen.de) |
+| Sparkasse Köln-Bonn | **A-** | [bankingportal.sparkasse-koelnbonn.de](https://bankingportal.sparkasse-koelnbonn.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bankingportal.sparkasse-koelnbonn.de) |
