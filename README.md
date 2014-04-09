@@ -5,7 +5,7 @@ implementation of TLS/SSL on the server. You would expect that banks care
 about this; surprisingly some don't. This list provides an overview.
 
 The ratings (from A to F) are derived from the excellent [SSL Server Test](https://www.ssllabs.com/ssltest/) by [Qualys SSL Labs](https://www.ssllabs.com).
-If your bank's online banking portal is not in the list, you can easily
+If your bank's online banking portal is not on the list, you can easily
 test it [here](https://www.ssllabs.com/ssltest/). It would also be great
 if you would then add your bank to this list by opening a pull request.
 
