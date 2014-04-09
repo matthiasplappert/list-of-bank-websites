@@ -21,3 +21,4 @@ if you would then add your bank to this list by opening a pull request.
 | Postbank | **A-** | [banking.postbank.de](https://banking.postbank.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=banking.postbank.de) |
 | Sparkasse Karlsruhe | **A-** | [bankingportal.sparkasse-karlsruhe-ettlingen.de](https://bankingportal.sparkasse-karlsruhe-ettlingen.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bankingportal.sparkasse-karlsruhe-ettlingen.de) |
 | Sparkasse Köln-Bonn | **A-** | [bankingportal.sparkasse-koelnbonn.de](https://bankingportal.sparkasse-koelnbonn.de) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bankingportal.sparkasse-koelnbonn.de) |
+| Erste Bank und Österreichische Sparkassen | **A** | [netbanking.sparkasse.at](https://netbanking.sparkasse.at/) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=netbanking.sparkasse.at) |
