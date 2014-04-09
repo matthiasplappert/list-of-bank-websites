@@ -30,8 +30,8 @@ if you would then add your bank to this list by opening a pull request.
 | Barclays | B | [bank.barclays.co.uk](https://bank.barclays.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bank.barclays.co.uk) |
 | Halifax | B | [halifax-online.co.uk](https://halifax-online.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=halifax-online.co.uk) | 
 | HSBC | B | [hsbc.co.uk](https://hsbc.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=hsbc.co.uk) |
-| Lloyds Bank | B | [online.lloydsbank.co.uk](https://online.lloydsbank.co.uk) | 09/04/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.lloydsbank.co.uk) |
-| Nationwide | **A-** | [onlinebanking.nationwide.co.uk](https://onlinebanking.nationwide.co.uk) | 04/092014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=onlinebanking.nationwide.co.uk) |
+| Lloyds Bank | B | [online.lloydsbank.co.uk](https://online.lloydsbank.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.lloydsbank.co.uk) |
+| Nationwide | **A-** | [onlinebanking.nationwide.co.uk](https://onlinebanking.nationwide.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=onlinebanking.nationwide.co.uk) |
 | Natwest | B | [nwolb.com](https://nwolb.com.com) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=nwolb.com) |
-| RBS | B | [rbsdigital.com](https://rbsdigital.com) | 09/04/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=rbsdigital.com) |
-| TSB | B | [online.tsb.co.uk](https://online.tsb.co.uk) | 04/092014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.tsb.co.uk) |
+| RBS | B | [rbsdigital.com](https://rbsdigital.com) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=rbsdigital.com) |
+| TSB | B | [online.tsb.co.uk](https://online.tsb.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.tsb.co.uk) |
