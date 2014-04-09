@@ -9,6 +9,14 @@ If your bank's online banking portal is not on the list, you can easily
 test it [here](https://www.ssllabs.com/ssltest/). It would also be great
 if you would then add your bank to this list by opening a pull request.
 
+## Austria
+
+| Bank | Rating | Host  | Date | Details |
+| ---- | ------ | ----- | ---- | ------- |
+| Bank Austria | A- | [online.bankaustria.at](https://online.bankaustria.at) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.bankaustria.at) |
+| Raiffeisen Landesbank | B | [banking.raiffeisen.at](https://banking.raiffeisen.at) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=banking.raiffeisen.at) |
+| Bawak PSK | A- | [ebanking.bawagpsk.com](https://ebanking.bawagpsk.com) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=ebanking.bawagpsk.com) |
+
 ## Germany
 
 | Bank | Rating | Host  | Date | Details |
