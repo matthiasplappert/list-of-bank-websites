@@ -43,3 +43,10 @@ if you would then add your bank to this list by opening a pull request.
 | Natwest | B | [nwolb.com](https://nwolb.com.com) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=nwolb.com) |
 | RBS | B | [rbsdigital.com](https://rbsdigital.com) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=rbsdigital.com) |
 | TSB | B | [online.tsb.co.uk](https://online.tsb.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.tsb.co.uk) |
+
+
+## Singapore
+
+| Bank | Rating | Host  | Date | Details |
+| ---- | ------ | ----- | ---- | ------- |
+| DBS | F | [https://internet-banking.dbs.com.sg](https://internet-banking.dbs.com.sg) | 04/10/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=https%3A%2F%2Finternet-banking.dbs.com.sg) |
