@@ -51,3 +51,12 @@ if you would then add your bank to this list by opening a pull request.
 | Bank | Rating | Host  | Date | Details |
 | ---- | ------ | ----- | ---- | ------- |
 | DBS | F | [https://internet-banking.dbs.com.sg](https://internet-banking.dbs.com.sg) | 04/10/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=https%3A%2F%2Finternet-banking.dbs.com.sg) |
+
+## United States
+
+| Bank | Rating | Host  | Date | Details |
+| ---- | ------ | ----- | ---- | ------- |
+| Wells Fargo | B | [wellsfargo.com](https://www.wellsfargo.com) | 07/13/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=wellsfargo.com) |
+| Bank of America | A- | [bankofamerica.com](https://www.bankofamerica.com) | 07/13/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bankofamerica.com) |
+| Citizens Bank | C | [citizensbank.com](https://www.citizensbank.com) | 07/13/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=citizensbank.com) |
+| BB&T | A- | [bbt.com](https://www.bbt.com) | 07/13/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bbt.com) |
