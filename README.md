@@ -13,10 +13,11 @@ if you would then add your bank to this list by opening a pull request.
 
 | Bank | Rating | Host  | Date | Details |
 | ---- | ------ | ----- | ---- | ------- |
-| Bank Austria | A- | [online.bankaustria.at](https://online.bankaustria.at) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.bankaustria.at) |
-| Raiffeisen Landesbank | B | [banking.raiffeisen.at](https://banking.raiffeisen.at) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=banking.raiffeisen.at) |
-| Bawak PSK | A- | [ebanking.bawagpsk.com](https://ebanking.bawagpsk.com) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=ebanking.bawagpsk.com) |
-| Erste Bank und Sparkassen | A | [netbanking.sparkasse.at](https://netbanking.sparkasse.at) | 04/16/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=netbanking.sparkasse.at) |
+| Bank Austria | A | [online.bankaustria.at](https://online.bankaustria.at) | 02/11/2016 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.bankaustria.at) |
+| Raiffeisen Landesbank | B | [banking.raiffeisen.at](https://banking.raiffeisen.at) | 02/11/2016 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=banking.raiffeisen.at) |
+| Bawak PSK | A+ | [ebanking.bawagpsk.com](https://ebanking.bawagpsk.com) | 02/11/2016 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=ebanking.bawagpsk.com) |
+| Erste Bank und Sparkassen | A+ | [netbanking.sparkasse.at](https://netbanking.sparkasse.at) | 02/11/2016 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=netbanking.sparkasse.at) |
+| Erste Bank und Sparkassen | A+ | [george.sparkasse.at](https://george.sparkasse.at) | 02/11/2016 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=george.sparkasse.at) |
 
 ## Germany
 
@@ -40,6 +41,7 @@ if you would then add your bank to this list by opening a pull request.
 | Halifax | B | [halifax-online.co.uk](https://halifax-online.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=halifax-online.co.uk) | 
 | HSBC | B | [hsbc.co.uk](https://hsbc.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=hsbc.co.uk) |
 | Lloyds Bank | B | [online.lloydsbank.co.uk](https://online.lloydsbank.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.lloydsbank.co.uk) |
+| Monzo Bank | B | [monzo.com](https://monzo.com/) | 11/03/2019 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=monzo.com) |
 | Nationwide | **A-** | [onlinebanking.nationwide.co.uk](https://onlinebanking.nationwide.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=onlinebanking.nationwide.co.uk) |
 | Natwest | B | [nwolb.com](https://nwolb.com.com) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=nwolb.com) |
 | RBS | B | [rbsdigital.com](https://rbsdigital.com) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=rbsdigital.com) |
