@@ -47,6 +47,16 @@ if you would then add your bank to this list by opening a pull request.
 | TSB | B | [online.tsb.co.uk](https://online.tsb.co.uk) | 04/09/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=online.tsb.co.uk) |
 
 
+## United States
+
+| Bank | Rating | Host  | Date | Details |
+| ---- | ------ | ----- | ---- | ------- |
+| Wells Fargo | B | [wellsfargo.com](https://www.wellsfargo.com) | 07/13/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=wellsfargo.com) |
+| Bank of America | A- | [bankofamerica.com](https://www.bankofamerica.com) | 07/13/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bankofamerica.com) |
+| Citizens Bank | C | [citizensbank.com](https://www.citizensbank.com) | 07/13/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=citizensbank.com) |
+| BB&T | A- | [bbt.com](https://www.bbt.com) | 07/13/2014 | [Details](https://www.ssllabs.com/ssltest/analyze.html?d=bbt.com) |
+
+
 ## Singapore
 
 | Bank | Rating | Host  | Date | Details |
